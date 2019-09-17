@@ -17,9 +17,9 @@ Every user gets his own virtual lab setup as per the main topology diagram.
 You can ssh using putty or secure-crt with the dns names or IP@ listed in ravello interface using your internet connectivity
 You can also use the ravello console to access the devices.
 
-You can check the following table [here](https://github.com/juniper-dc/evpn/blob/master/topologies/cemlabstudents.md) in order to get the ravello url for your student number.  
+You can check the table [here](https://github.com/juniper-dc/evpn/blob/master/topologies/cemlabstudents.md) in order to get the URL with access info for your student number.  
 
-The student number is given by the instructor during the in-person lab session. 
+The student number is given by the instructor during the in-person lab session and each student gets his own pod to work on. 
 
 
 + the lab vqfx device access info: 
