@@ -17,7 +17,7 @@ Every user gets his own virtual lab setup as per the main topology diagram.
 You can ssh using putty or secure-crt with the dns names or IP@ listed in ravello interface using your internet connectivity
 You can also use the ravello console to access the devices.
 
-You can download the following file [here](https://github.com/juniper-dc/techfest2019/blob/master/topologies/cemlabstudents.pdf) in order to get the ravello url for your student number.  
+You can download the following file [here](https://github.com/juniper-dc/evpn/blob/master/topologies/cemlabstudents.pdf) in order to get the ravello url for your student number.  
 
 The student number is given by the instructor during the in-person lab session. 
 
@@ -69,7 +69,7 @@ Use the username: `root` and password: `Juniper1!`
 ### Lab tasks
 
 
-> **Task 1.0 Verify the full IPv4 underlay reachability within the**  [main topology](https://github.com/juniper-dc/techfest2019#lab-topology)
+> **Task 1.0 Verify the full IPv4 underlay reachability within the**  [main topology](https://github.com/juniper-dc/evpn#lab-topology)
 
 
 + Ensure the full IP reachability of your fabric
@@ -297,4 +297,4 @@ $
 
 ### Solution guide for EVPN/VXLAN lab ####
 
-+ here's the URL for the solution guide document [solution guide draft](https://github.com/juniper-dc/techfest2019/blob/master/topologies/EM_for_EVPN-VXLAN_ERB_solution_guide_v1.pdf)
++ here's the URL for the solution guide document [solution guide draft](https://github.com/juniper-dc/evpn/blob/master/topologies/EM_for_EVPN-VXLAN_ERB_solution_guide_v1.pdf)
